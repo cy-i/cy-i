@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://chenyu.me"><img height="100px" alt="logo" src="https://cdn.chenyu.me/gh/cy-i/chenyu@1.0.0/logo.png"/></a>
+  <a href="https://chenyu.me"><img height="100px" alt="logo" src="https://cdn.jsdelivr.net/gh/cy-i/chenyu@1.0.0/logo.png"/></a>
   <p><em>🗂️纵使结局不如意，遇见已是上上签。</em></p>
     <a href="https://chenyu.me">
     <img src="https://img.shields.io/badge/%E5%B0%98%E9%81%87-ChenYu-ff69b4.svg?color=red" alt="尘遇" />
