@@ -60,13 +60,16 @@
 			</a>
 </p>
 
-<h1 align="center">Hi 👋, I'm cy-i </h1>
+<h1 align="center">江湖走马，风也好，雨也罢！ </h1>
 
-- 🔭 I’m studying in China
-- 🌱 I’m studying computer science and technology in University
-- 🤔 I mainly share some study notes
-- ❤️ Now I have learned HTML, Java, C + +, python, etc., so the programming language in my notes is not fixed
-- 💬 Be free to ask me about anything [here](https://github.com/cy-i/cy-i/issues).
+- 🗽 如果天总也不亮，那就摸黑过生活；
+- 🔐 如果发出声音是危险的，那就保持沉默；
+- 😶 如果自觉无力发光，那就不必去照亮别人。
+- ✊ 但是，
+- 😨 不要习惯了黑暗就为黑暗辩护；
+- 🤕 不要为自己的苟且而得意洋洋；
+- 💔 不要嘲讽那些比自己更勇敢、更有热量的人们。
+- 🌱 我们可以卑微如尘土，不可扭曲如蛆虫。
 
 <!-- 访客统计 -->
 <p align="center">You are my <img src="https://profile-counter.glitch.me/cy-i/count.svg"> visitor,Thank You!🎉🎉</p>
